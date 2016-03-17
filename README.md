@@ -1,2 +1,2 @@
 # mvc-demo
-A demo of shopping net designed with MVC.
+A demo of shopping net based on MVC.
